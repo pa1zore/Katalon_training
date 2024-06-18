@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Record_on_existinga_browser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a133aee4-7d5c-48d5-89ac-94e8b38f6574</testCaseGuid>
+</TestCaseEntity>
